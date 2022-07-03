@@ -1,5 +1,6 @@
 - Hi, I’m @alexrraff
-- I am currently in a 6 week full-time Java Training Course from Wiley Edge. 
+- I am currently in a 6 week full-time Java Training Course from Wiley Edge.
+- I recently graduated with a Bachelors Degree in Computer Science.
 - I am interested in learning and gaining experience in front end, back end, and full stack.
 - 🌱 I’m currently learning Java.
 - 📫 How to reach me: alexrraff@gmail.com
