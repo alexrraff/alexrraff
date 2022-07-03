@@ -1,7 +1,7 @@
 - Hi, I’m @alexrraff
-- I’m interested in finding a job programming.  
+- I am currently in a 6 week full-time Java Training Course from Wiley Edge. 
 - I am interested in learning and gaining experience in front end, back end, and full stack.
-- 🌱 I’m currently learning C++.
+- 🌱 I’m currently learning Java.
 - 📫 How to reach me: alexrraff@gmail.com
 
 hackerrank.com/alexrraff
